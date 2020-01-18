@@ -22,6 +22,8 @@ class App extends Component {
         <Route path="/duck" component={AsyncDuck} />
         </div>
       </div>
-    )
+    );
   }
 }
+
+export default App;
